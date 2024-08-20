@@ -3,7 +3,7 @@ holidays = ["正月","成人の日","建国記念日","天皇誕生日","春分�
 let i =0;
 
 while (i < holidays.length){
-  let holidays = [i];
+  console.log (holidays[i]);
   i++;
 }
 
