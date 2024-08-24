@@ -3,7 +3,7 @@ const today = new Date();
 
 // 年、月、日を取得
 const year = today.getFullYear();
-const month = today.getMonth() + 1; // 月は0から始まるため、1を加える必要があります
+const month = today.getMonth() + 1; 
 const day = today.getDate();
 
 // 指定された形式で日付を表示
